@@ -1,0 +1,51 @@
+{
+    "company": {
+      "name": "Acme Solutions Inc.",
+      "address": "123 Innovation Drive, Tech City, TC 54321",
+      "phone": "+1-800-555-0199",
+      "email": "support@acmesolutions.com",
+      "website": "https://www.acmesolutions.com"
+    },
+    "pricing": {
+      "basic_plan": {
+        "price_per_month": "$19.99",
+        "features": ["Task Management", "Collaboration Tools", "5GB Cloud Storage"]
+      },
+      "pro_plan": {
+        "price_per_month": "$49.99",
+        "features": ["Advanced Analytics", "Unlimited Cloud Storage", "Priority Support"]
+      },
+      "enterprise_plan": {
+        "price_per_month": "Custom Pricing",
+        "features": ["Dedicated Account Manager", "Custom Integrations", "On-Premise Deployment"]
+      }
+    },
+    "policies": {
+      "refund_policy": "Customers can request a full refund within 14 days of purchase. After that, refunds are not available.",
+      "cancellation_policy": "Subscriptions can be canceled anytime, but will remain active until the end of the billing cycle.",
+      "support_hours": "Support is available Monday to Friday, 9 AM - 6 PM (UTC)."
+    },
+    "frequently_asked_questions": {
+      "how_to_cancel": "Log in to your account, go to 'Billing', and click 'Cancel Subscription'.",
+      "upgrade_plan": "To upgrade, go to 'Account Settings' and select 'Upgrade Plan'.",
+      "discounts": "We offer a 10% discount for annual subscriptions and a 15% discount for non-profits."
+    },
+    "products": [
+      {
+        "name": "TaskMaster 3000",
+        "description": "An AI-powered task management tool for teams.",
+        "price": "$29.99/month"
+      },
+      {
+        "name": "AutomateX",
+        "description": "A workflow automation tool with powerful integrations.",
+        "price": "$59.99/month"
+      },
+      {
+        "name": "InsightPro",
+        "description": "Advanced analytics and reporting software.",
+        "price": "$99.99/month"
+      }
+    ]
+  }
+  

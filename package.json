@@ -1,0 +1,12 @@
+{
+  "name": "openai-agent",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node webhook.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "fs": "^0.0.1-security",
+    "openai": "^4.85.4"
+  }
+}
