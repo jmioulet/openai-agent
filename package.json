@@ -6,6 +6,7 @@
   },
   "dependencies": {
     "dotenv": "^16.4.7",
+    "express": "^4.21.2",
     "fs": "^0.0.1-security",
     "openai": "^4.85.4"
   }
